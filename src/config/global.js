@@ -1,7 +1,7 @@
 export default {
   global: {
-    componenteFormativo: 'Prácticas de guía ecológica en entornos naturales',
-    descripcionCurso:
+    Name: 'Prácticas de guía ecológica en entornos naturales',
+    Description:
       'El guía turístico debe comenzar su labor con un profundo autoconocimiento, seguido del dominio de conceptos fundamentales para construir una relación sólida con el grupo guiado. Este enfoque es crucial para desarrollar un perfil integral que potencie las técnicas de guianza.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal-.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
@@ -320,25 +320,4 @@ export default {
     creativeCommons:
       'Licencia creative commons CC BY-NC-SA<br><a href="https://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank">ver licencia</a>',
   },
-  // creditosInicio: [
-  //   {
-  //     titulo: 'En alianza',
-  //     contenido: [
-  //       require('@/assets/template/logo-sena-naranja.svg'),
-  //       require('@/assets/template/mintic.jpg'),
-  //       require('@/assets/template/minsalud.jpg'),
-  //     ],
-  //   },
-  //   {
-  //     titulo: 'En compañía',
-  //     contenido: [
-  //       require('@/assets/template/presidencia.jpg'),
-  //       require('@/assets/template/ecopetrol.jpg'),
-  //     ],
-  //   },
-  //   {
-  //     titulo: 'Una iniciativa',
-  //     contenido: [require('@/assets/template/santander.jpg')],
-  //   },
-  // ],
 }
