@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecoredsena-atlantico.github.io/63410446_CF02_GUIANZA_EN_RECORRIDOS_POR_LA_NATURALEZA](https://ecoredsena-atlantico.github.io/63410446_CF02_GUIANZA_EN_RECORRIDOS_POR_LA_NATURALEZA)
+[https://ecored-atlantico.github.io/63410446_CF02_GUIANZA_EN_RECORRIDOS_POR_LA_NATURALEZA/](https://ecored-atlantico.github.io/63410446_CF02_GUIANZA_EN_RECORRIDOS_POR_LA_NATURALEZA/)
 
 #
 
