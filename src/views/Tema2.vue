@@ -125,7 +125,7 @@
           .col-auto.pe-2
             img(src="@/assets/curso/temas/tema2/img-3.svg", alt="Icono")
           .col.px-0
-            h4.mb-0.tit-2 Importancia de la Comunicación
+            h4.mb-0.tit-2 Importancia de la comunicación
 
 
     p.mb-4 La comunicación es esencial para transmitir información de manera clara y efectiva, formando conocimientos, proyectando una imagen profesional y difundiendo mensajes clave. Además, permite persuadir al público, ofreciendo un espacio de entretenimiento y conexión. A continuación, se presentan los aspectos principales que la comunicación cumple en diversas interacciones, asegurando su impacto en cada contexto.
@@ -136,7 +136,7 @@
           p(numero="1" titulo="Comunicación") Informar: la gran carrera progresista del mundo en todos sus campos hace de la información una necesidad de cada día. La comunicación cumple así un papel importante.	
           p(numero="2" titulo="Conocimiento") Formar: el empleo de la comunicación como medio de formación es palpable en todos los campos del conocimiento humano.	
           p(numero="3" titulo="Idea") Dar Imagen: la comunicación se da y se percibe como una empresa, una compañía, una idea. Es una forma muy eficaz de publicidad y buenas relaciones públicas para una empresa.	
-          p(numero="4" titulo="Opinión") Difundir: la comunicación permite esparcir no sólo la propia opinión, sino las ideas necesarias para lograr un objetivo determinado. Se difunden las ventajas de un producto, las bondades de una administración, la amabilidad de una empresa o su voluntad de servicio.	
+          p(numero="4" titulo="Opinión") Difundir: la comunicación permite esparcir no solo la propia opinión, sino las ideas necesarias para lograr un objetivo determinado. Se difunden las ventajas de un producto, las bondades de una administración, la amabilidad de una empresa o su voluntad de servicio.	
           p(numero="5" titulo="Decisión") Persuadir: convencer a los demás para que se ejecute o no una acción, para que se compre o no un producto, para que se tome una decisión; es una misión necesaria en nuestro medio. Una buena comunicación debe servir para convencer a los demás y moverlos a la acción.	
           p(numero="6" titulo="Interés") Divertir: en la comunicación debe haber algo de interés para dar o recibir. A veces conviene recurrir a elementos agradables, visibles y jocosos con el objetivo de influir con mayor facilidad en los demás. La comunicación es, también, un vehículo de la alegría, el descanso, el solaz y la amabilidad.
       .col-lg-4.col-md-8.mb-5
@@ -250,7 +250,7 @@
               img(src="@/assets/curso/temas/tema2/img-14.png", alt="alt")
           .crd_hover_txt--body.crd-2
             h4.mb-3 Conducta no asertiva
-            p.mb-0.text-small Conducta no asertiva	Quien recibe una conducta no asertiva puede experimentar diversas consecuencias negativas. Constantemente descifrar lo que la otra persona intenta comunicar o tratar de leer sus pensamientos resulta ser una tarea difícil y abrumadora. Esto puede dar lugar a sentimientos de frustración, molestia e incluso ira hacia quien se comporta de manera pasiva.	 
+            p.mb-0.text-small Quien recibe una conducta no asertiva puede experimentar diversas consecuencias negativas. Constantemente descifrar lo que la otra persona intenta comunicar o tratar de leer sus pensamientos resulta ser una tarea difícil y abrumadora. Esto puede dar lugar a sentimientos de frustración, molestia e incluso ira hacia quien se comporta de manera pasiva.	 
 
 
 
@@ -296,7 +296,7 @@
 
 
 
-    h4 Existen componentes que conforman la estructura de una conducta asertiva:
+    h4 Existen componentes que conforman la estructura de una conducta asertiva
 
     p El respeto y la honestidad son fundamentales para la comunicación efectiva. Ser directo y apropiado facilita la comprensión, mientras que el control emocional y la capacidad de escuchar fomentan relaciones saludables. Además, mantener una actitud positiva y planificar los mensajes contribuyen a una interacción más clara y constructiva, permitiendo que se alcancen los objetivos comunicativos de manera efectiva. 
 
@@ -322,7 +322,7 @@
             .row.justify-content-center.mb-3
               .col-5
                 img(src='@/assets/curso/temas/tema2/img-20.svg' alt='AvatarTop')
-            p.text-center Ser honesto(a) significa que las acciones reflejan los sentimientos auténticos. Es preferible mantener la calma y, de manera educada pero firme, expresar la propia opinión sin desestimar la perspectiva de los demás.
+            p.text-center Ser honesto(a) significa que las acciones reflejan los sentimientos auténticos. Es preferible mantener la calma y, de manera educada, pero firme, expresar la propia opinión sin desestimar la perspectiva de los demás.
           .tarjeta.color-acento-botones.p-4.fnd-3-1
             .row.justify-content-center.mb-3
               .col-5
@@ -349,12 +349,12 @@
                 img(src='@/assets/curso/temas/tema2/img-25.svg' alt='AvatarTop')
             p.text-center Planificar los mensajes implica aclarar todos los hechos y puntos con antelación, utilizando notas de referencia si es posible. Esto ahorra tiempo, genera confianza y puede reducir la intimidación en los demás.
 
-    h4.mb-5 Recomendaciones para proyectar asertividad:  
+    h4.mb-5 Recomendaciones para proyectar asertividad  
 
     figure.mb-4
       img(src="@/assets/curso/temas/tema2/img-26.png", alt="alt")
 
-    p.mb-5 Para proyectar seguridad, es importante mirar a los ojos al interlocutor, dar un saludo firme y hablar con buena dicción. Evitar arrinconar a las personas facilita la cooperación y reduce tensiones, ofreciendo una salida constructiva que beneficie a todos. Además, en lugar de recurrir a amenazas, es mejor negociar con calma para lograr credibilidad y colaboración en los objetivos comunes.
+    p.mb-5 Para proyectar seguridad, es importante mirar a los ojos al interlocutor, dar un saludo firme y hablar con buena dicción. Evitar, arrinconar a las personas facilita la cooperación y reduce tensiones, ofreciendo una salida constructiva que beneficie a todos. Además, en lugar de recurrir a amenazas, es mejor negociar con calma para lograr credibilidad y colaboración en los objetivos comunes.
 
 
     .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right")

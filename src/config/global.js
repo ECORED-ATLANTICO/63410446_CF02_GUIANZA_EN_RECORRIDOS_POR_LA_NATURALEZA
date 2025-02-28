@@ -91,7 +91,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CF02_63410446_CFA.pdf',
+        download: 'downloads/CF02_63410446_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -108,16 +108,18 @@ export default {
   complementario: [
     {
       tema: 'Manejo de Grupos',
-      referencia: 'Tecnólogo en Guianza Turística 2017 SENA(Video)-YouTube',
+      referencia:
+        'SENA. (2017). Tecnólogo en Guianza Turística. [Archivo de video] Youtube. ',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=Qk2Wl4bwSv0',
+      link: 'https://www.youtube.com/watch?v=Qk2Wl4bwSv0 ',
     },
     {
       tema: 'Camino, Sendero y Caminata',
-      referencia: 'SENA (2023). Sendero ecológico. Noticias SENA.',
+      referencia:
+        'SENA (2023). Sendero ecológico, a disposición de la comunidad educativa de Casanare. Noticias SENA.',
       tipo: 'Página <i>web</i>',
       link:
-        'https://www.sena.edu.co/es-co/Noticias/Paginas/noticia.aspx?IdNoticia=6507',
+        'https://www.sena.edu.co/es-co/Noticias/Paginas/noticia.aspx?IdNoticia=6507 ',
     },
   ],
   glosario: [
@@ -227,15 +229,13 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo:
-            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
+          cargo: 'Líder del ecosistema de recursos educativos digitales (RED)',
           centro: 'Dirección General',
         },
         {
           nombre: 'Miguel de Jesús Paredes Maestre',
           cargo: 'Responsable de línea de producción',
-          centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios Regional Atlántico',
         },
       ],
     },
@@ -243,21 +243,20 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Ángela Viviana Páez Perilla',
-          cargo: 'Experta temática',
-          centro: 'Agroindustrial Regional -  Quindío ',
+          nombre: 'Julio Hernán Beltrán Peñuela',
+          cargo: 'Experto temático',
+          centro: 'N/A',
+        },
+        {
+          nombre: 'Mónica Patricia Osorio Martínez',
+          cargo: 'Asesor Pedagógico',
+          centro: 'N/A',
         },
         {
           nombre: 'Gilberto Herrera Delgans',
-          cargo: 'Evaluador instruccional',
+          cargo: 'Evaluador Instruccional',
           centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
-        },
-        {
-          nombre: 'Miguel Paredes Maestre',
-          cargo: 'Responsable de línea de producción',
-          centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
         },
       ],
     },
@@ -266,21 +265,18 @@ export default {
       autores: [
         {
           nombre: 'Antonio Vecino Valero',
-          cargo: 'Diseñor web',
-          centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
+          cargo: 'Diseñador <em>web</em>',
+          centro: 'Centro de Comercio y Servicios Regional Atlántico',
         },
         {
-          nombre: 'Jorge Leonardo Camacho Pardo',
+          nombre: 'Carlos Andrés Diaz Pinto',
           cargo: 'Desarrollador <em> full stack</em>',
-          centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios Regional Atlántico',
         },
         {
-          nombre: 'Nelson Ivan Vera Briceño',
+          nombre: 'Alexander Rafael Acosta Bedoya',
           cargo: 'Animador y productor audiovisual',
-          centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios Regional Atlántico',
         },
       ],
     },
@@ -288,28 +284,24 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Carolina Coca Salazar',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
+          nombre: 'Maria Fernanda Morales Angulo',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles ',
+          centro: 'Centro de Comercio y Servicios Regional Atlántico',
         },
         {
           nombre: 'Luz Karime Amaya Cabra',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios Regional Atlántico',
         },
         {
-          nombre: 'Juan Carlos Cardona Acosta',
+          nombre: 'Jonathan Adie Villafañe',
           cargo: 'Validador y vinculador de recursos digitales',
-          centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios Regional Atlántico',
         },
         {
           nombre: 'Jairo Luis Valencia Ebratt',
           cargo: 'Validador y vinculador de recursos digitales ',
-          centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios Regional Atlántico',
         },
       ],
     },

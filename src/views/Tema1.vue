@@ -12,7 +12,7 @@
         figure.mb-4
           img(src='@/assets/curso/temas/tema1/img-1.png', alt='')
       .col-lg-8
-        h5 Según el Artículo 26 de la ley 1558 de 2012 se define guía turístico así:
+        h5 Según el Artículo 26 de la ley 1558 de 2012, se define guía turístico así:
         p Se considera guía de turismo a la persona natural que presta servicios profesionales en el área de guianza turística. Sus funciones hacia el turista, viajero o pasajero incluyen orientar, conducir, instruir y asistir durante la ejecución del servicio contratado.
         p Se entiende como profesional en el área de guianza turística, en cualquiera de sus modalidades, a la persona inscrita en el Registro Nacional de Turismo, quien ha obtenido la tarjeta profesional de guía de turismo, otorgada por la entidad o el organismo designado por el gobierno.
 
@@ -26,8 +26,8 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-2.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 El Estado, por intermedio del SENA o una Entidad de Educación Superior reconocida por el Gobierno Nacional, promoverá el desarrollo de competencias en bilingüismo, para proporcionar herramientas que permitan el acceso en condiciones de igualdad y equidad a la oferta laboral y empresarial del sector turístico.
-        p.mb-0 No obstante, quien obtenga el título profesional de guía de turismo a partir del segundo año de vigencia de la presente ley deberá acreditar el conocimiento de un segundo idioma.
+        p.mb-0 El Estado, por intermedio del SENA o una Entidad de Educación Superior reconocida por el Gobierno Nacional, promoverá el desarrollo de competencias en bilingüismo, para proporcionar herramientas que permitan el acceso en condiciones de igualdad y equidad a la oferta laboral y empresarial del sector turístico. 
+        p.mb-0  No obstante, quien obtenga el título profesional de guía de turismo a partir del segundo año de vigencia de la presente ley deberá acreditar el conocimiento de un segundo idioma.
 
     p.mb-4 La tarjeta profesional de guía de turismo es el único documento legal expedido para identificar, proteger, autorizar y controlar al titular en el ejercicio profesional de la guianza turística. El Gobierno Nacional reglamentará su expedición.
 
@@ -45,15 +45,15 @@
         img(src="@/assets/curso/temas/tema1/check.svg")
       .col.px-0
         p.mb-0 
-          span.t-g Papel del Guía de Turismo: 
+          span.t-g Papel del guía de turismo: 
           | el guía de turismo, o cicerone, es quien aporta la esencia misma del servicio turístico. Su labor requiere un alto nivel de preparación intelectual y cultural, siendo él o ella quien debe generar en los visitantes el placer de descubrir, conocer y disfrutar de Colombia.
     .row.pe-lg-3.mb-4(data-aos="zoom-in")
       .col-auto.pe-2.mt-1
         img(src="@/assets/curso/temas/tema1/check.svg")
       .col.px-0
         p.mb-0 
-          span.t-g Perfil del Guía de Turismo: 
-          | el contacto del guía con el turista es permanente. Él es quien moldea y gesta el en producto turístico merced a los servicios y las condiciones que estos se realicen. El guía de turismo debe manejar desde nociones y principios de algunas áreas del conocimiento, hasta complejas técnicas, normas y profundos conceptos de aquellos temas que sean objeto de su trabajo. Este extenso saber es garantía de calidad de sus prestaciones como profesional del turismo.
+          span.t-g Perfil del guía de turismo: 
+          | el contacto del guía con el turista es permanente. Él es quien moldea y gesta el producto turístico a merced los servicios y las condiciones que estos se realicen. El guía de turismo debe manejar desde nociones y principios de algunas áreas del conocimiento, hasta complejas técnicas, normas y profundos conceptos de aquellos temas que sean objeto de su trabajo. Este extenso saber es garantía de calidad de sus prestaciones como profesional del turismo.
     .row.pe-lg-3.mb-4(data-aos="zoom-in")
       .col-auto.pe-2.mt-1
         img(src="@/assets/curso/temas/tema1/check.svg")
@@ -100,7 +100,7 @@
           .col.px-0
             p.mb-0 
               span.t-g Funciones del Guía de Turismo: 
-              | un guía de turismo tiene la responsabilidad de recibir y trasladar a los turistas, conducir grupos y coordinar actividades de animación sociocultural. A  continucion lo invitamos a conocer un poco más sobre estas funciones:
+              | un guía de turismo tiene la responsabilidad de recibir y trasladar a los turistas, conducir grupos y coordinar actividades de animación sociocultural. A  continuación, lo invitamos a conocer un poco más sobre estas funciones:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-7

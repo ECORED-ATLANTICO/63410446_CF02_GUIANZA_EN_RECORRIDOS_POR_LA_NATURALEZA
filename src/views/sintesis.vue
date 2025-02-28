@@ -6,7 +6,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="Muestra la gráfica de síntesis del componente formativo, prácticas de guía ecológica en entornos naturales, teniendo en cuenta el perfil del guía turístico, comunicación, manejo de grupos, camino, sendero y caminata, equipos de seguridad, primeros auxilios y manejo de residuos.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

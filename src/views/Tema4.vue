@@ -49,7 +49,7 @@
           .col-auto.pe-2
             img(src="@/assets/curso/temas/tema2/img-3.svg", alt="Icono")
           .col.px-0
-            h4.mb-0.tit-2 Normas de utilización Precauciones
+            h4.mb-0.tit-2 Normas de utilización: precauciones
 
     .row.justify-content-center.align-items-center.mb-5  
       figure
@@ -66,7 +66,7 @@
                   img(src="@/assets/curso/temas/tema4/img-5.png", alt="alt")
               .crd_hover_txt--body
                 h4.mb-3 Fuegos
-                p.mb-0 se recomienda utilizar las zonas demarcadas para el fuego y solo en caso necesario puesto que resulta ser una actividad muy peligrosa.
+                p.mb-0 se recomienda utilizar las zonas demarcadas para el fuego y solo en caso necesario, puesto que resulta ser una actividad muy peligrosa.
           .col-xl-4.col-lg-4.col-md-9.col-11.mb-4.mb-xl-0
             .crd_hover_txt.crd-2(data-aos="flip-left")
               .crd_hover_txt--img
@@ -123,7 +123,7 @@
             img(src="@/assets/curso/temas/tema1/check.svg")
           .col.px-0
             p.mb-0  
-              | Ayudar a crear alternativas recreativas y económicas.Ayudar a crear alternativas recreativas y económicas.
+              | Ayudar a crear alternativas recreativas y económicas.
 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
@@ -151,15 +151,17 @@
         p.mb-0 En cuanto al estado físico se recomiendan las Técnicas de calentamiento que consiste en un estiramiento y preparación muscular teniendo en cuenta las piernas, tobillos, cadera, espalda y cuello para evitar accidentes o calambres durante la caminata. Así mismo, al terminar se recomienda un estiramiento de los músculos y articulaciones más usados durante el recorrido; este estiramiento garantiza un buen descanso y hace que desaparezcan molestias al día siguiente.
 
     h4 Equipo básico para una caminata
-    p.mb-5 El morral: morral grande (60 a 90 kilos) y uno pequeño para caminatas por el sector (20 kilos), con tiras acolchadas para los hombros. Se debe cargar la cuarta parte del peso del caminante más un kilo, se debe cuidar la columna vertebral, el morral debe quedar ajustado al cuerpo y el mayor peso en la parte media alta.
-
+  
     .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-7
         .tarjeta.p-4.mb-5.px-xl-5.px-mb-2.fnd-2
           SlyderA(tipo="b")
             .row
+              .h4 El morral
+              p.mb-0 morral grande (60 a 90 kilos) y uno pequeño para caminatas por el sector (20 kilos), con tiras acolchadas para los hombros. Se debe cargar la cuarta parte del peso del caminante más un kilo, se debe cuidar la columna vertebral, el morral debe quedar ajustado al cuerpo y el mayor peso en la parte media alta.
+            .row
               .h4 Dormir
-              p.mb-0 Saco de dormir adecuado para la temperatura y el clima de la zona. Es recomendable elegir un saco de dormir ligero, fácil de comprimir, y con capacidad de mantener el calor en temperaturas bajas. Si la caminata se realiza en clima cálido, un saco de dormir de menor grosor será suficiente, mientras que para climas fríos, un saco de dormir con buena retención térmica y resistencia a la humedad es esencial.
+              p.mb-0 Saco de dormir adecuado para la temperatura y el clima de la zona. Es recomendable elegir un saco de dormir ligero, fácil de comprimir, y con capacidad de mantener el calor en temperaturas bajas. Si la caminata se realiza en clima cálido, un saco de dormir de menor grosor será suficiente, mientras que, para climas fríos, un saco de dormir con buena retención térmica y resistencia a la humedad es esencial.
             .row
               .h4 Aseo
               p.mb-0 Elementos de higiene personal compactos y ligeros, como un cepillo de dientes pequeño, jabón biodegradable, una toalla de microfibra (que se seca rápidamente y ocupa poco espacio), y papel higiénico. Es recomendable llevar el papel en una bolsa hermética para protegerlo de la humedad, y una bolsa adicional para desecharlo si es necesario.
@@ -276,12 +278,15 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-xl-10
+        .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+          h5 Tabla 1. 
+          span Clases de Equipos
         .tabla-a.color-acento-contenido.mb-5 
           table.tbl
             caption Fuente: Sena (2024).
             thead
               tr
-                th(colspan="2") Clases de   Equipos
+                th(colspan="2") Clases de Equipos
               tr
                 td.td20 Tipo de   Equipo
                 td.td30 Descripción              
@@ -347,7 +352,7 @@
 
 
     .cajon.color-acento-botones.p-4.mb-5.fnd-1-5
-      p.mb-0 <b> Nota:</b> Se recomienda que los guías tomen cursos de primeros auxilios de forma continua con entidades reconocidas. Actuar rápidamente para conseguir asistencia médica es clave.
+      p.mb-0 <b> Nota:</b> se recomienda que los guías tomen cursos de primeros auxilios de forma continua con entidades reconocidas. Actuar rápidamente para conseguir asistencia médica es clave.
  
     h4.mb-4(data-aos="zoom-in") Manejo de Residuos
     
@@ -361,7 +366,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-xl-10
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Tabla 1. 
+          h5 Tabla 2. 
           span Clasificación de Residuos 
         .tabla-a.color-acento-contenido
           table.tbl
@@ -370,28 +375,28 @@
               tr
                 th(colspan="4") Clasificación de Residuos
               tr
-                th Tipo de Residuo
+                th Tipo de residuo
                 th Descripción
                 th Ejemplos
                 th Recomendaciones de Manejo
             tbody
               tr
-                td Residuos Orgánicos
+                td Residuos orgánicos
                 td Desechos biodegradables que pueden descomponerse de forma natural, enriqueciendo el suelo.
                 td Restos de alimentos (frutas, verduras), cáscaras.
                 td Llevar una bolsa para recolectar los residuos; si es seguro, compostar en áreas designadas. No dejar residuos orgánicos en la naturaleza.
               tr
-                td Residuos No Orgánicos
+                td Residuos no orgánicos
                 td Desechos que no se descomponen fácilmente y pueden causar contaminación ambiental significativa si no se gestionan adecuadamente.
                 td Plásticos (botellas, envoltorios), papel higiénico, servilletas desechables.
                 td Llevar bolsas para recoger todos los residuos y llevarlos de vuelta. Usar productos reutilizables siempre que sea posible.
               tr
-                td Residuos Líquidos
+                td Residuos líquidos
                 td Materiales en estado líquido que pueden contener sustancias perjudiciales para el medio ambiente si se desechan de manera inapropiada.
                 td Restos de bebidas, aceites, productos de limpieza.
                 td Evitar verter líquidos en el suelo o cuerpos de agua. Llevar recipientes que hermeticen cualquier residuo líquido.
               tr
-                td Residuos Lixiviados
+                td Residuos lixiviados
                 td Líquidos generados por la descomposición de otros residuos, que pueden ser contaminantes y dañinos si no se gestionan correctamente.
                 td Fluidos que escapan de residuos mal gestionados o en campamentos.
                 td Asegurarse de que todos los residuos estén bien dispuestos en contenedores sellados. Notificar a las autoridades sobre contaminación.

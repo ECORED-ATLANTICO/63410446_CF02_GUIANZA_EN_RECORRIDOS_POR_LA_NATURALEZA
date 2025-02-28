@@ -25,7 +25,7 @@
           img(src='@/assets/curso/temas/tema3/img-2.png', alt='')
       .col-lg-9
         .cajon.color-acento-botones.p-4.mb-4.fnd-1
-          p.mb-0 Muchas veces la primera impresión falla y se fantasea negativamente respecto a los demás. A pesar de todas estas diferencias las personas tienen mucho más en común de lo que se suele pensar, tal como la necesidad de afiliación y cariño, de participación y de contribución. Cuando se mira más allá del exterior y de las apariencias, no quedan tantas diferencias después de todo. Una conversación amena y positiva es de las mejores caricias psicológicas para el ser humano.
+          p.mb-0 Muchas veces la primera impresión falla y se fantasea negativamente respecto a los demás. A pesar de todas estas diferencias, las personas tienen mucho más en común de lo que se suele pensar, tal como la necesidad de afiliación y cariño, de participación y de contribución. Cuando se mira más allá del exterior y de las apariencias, no quedan tantas diferencias después de todo. Una conversación amena y positiva es de las mejores caricias psicológicas para el ser humano.
 
     .row.justify-content-center.align-items-center.mb-2
       .col-lg-8
@@ -216,7 +216,7 @@
       .col-lg-8.mb-4
         p Los miembros del grupo suelen percibir mayor satisfacción y eficacia en grupos pequeños. Lo ideal sería contar con entre 15 y 20 participantes, aunque en la práctica los grupos suelen ser más grandes y, con suerte, no superan los 25. También es importante considerar la homogeneidad y heterogeneidad de los grupos. Aunque los grupos homogéneos y cooperativos suelen alinearse mejor con ciertos objetivos, en ocasiones es necesario recurrir a la formación de grupos heterogéneos.
         .cajon.color-secundario.p-4.mb-4.fnd-1-1
-          p.mb-0 Antiguamente se creía que solo los grupos homogéneos podían enfrentar las diferencias individuales, lo que facilitaba a los líderes la programación eficiente de actividades. Para profundizar en este tema, explore el siguiente contenido.
+          p.mb-0 Antiguamente, se creía que solo los grupos homogéneos podían enfrentar las diferencias individuales, lo que facilitaba a los líderes la programación eficiente de actividades. Para profundizar en este tema, explore el siguiente contenido.
           
     .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-12
@@ -245,7 +245,7 @@
                   img(src='@/assets/curso/temas/tema3/img-12.png', alt='')
 
     h4(data-aos="zoom-in") Papeles o roles en tareas grupales
-    p En tareas grupales, cada rol facilita y coordina el esfuerzo del grupo, apoyando tanto en la definición de un problema común como en la búsqueda de soluciones. Estos roles integran distintas perspectivas y funciones, y se manifiestan en diversas variantes:s
+    p En tareas grupales, cada rol facilita y coordina el esfuerzo del grupo, apoyando tanto en la definición de un problema común como en la búsqueda de soluciones. Estos roles integran distintas perspectivas y funciones, y se manifiestan en diversas variantes:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.col-md-8
@@ -303,7 +303,7 @@
             h4 Estimulador, técnico y registrador
             p Motiva al grupo a actuar, facilita el proceso y registra decisiones y resultados.
 
-    p Los roles individuales dentro de los grupos influyen en la dinámica, el rendimiento y la cohesión del equipo, conozcamos sus razgos individuales para saber como identificarlos.      
+    p Los roles individuales dentro de los grupos influyen en la dinámica, el rendimiento y la cohesión del equipo. Conozcamos sus rasgos individuales para saber como identificarlos.      
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-8
@@ -340,12 +340,12 @@
           .col-auto.pe-2.mt-1
             img(src="@/assets/curso/temas/tema1/check.svg")
           .col.px-0
-            p.mb-0 <b> El juguetón:</b> No se coordina con el grupo ya que dedica su atención y esfuerzo en manifestaciones simplistas de conducta, cinismo e indiferencia, de tal modo que manipula al grupo en la medida de lo posible. 
+            p.mb-0 <b> El juguetón:</b> No se coordina con el grupo, ya que dedica su atención y esfuerzo en manifestaciones simplistas de conducta, cinismo e indiferencia, de tal modo que manipula al grupo en la medida de lo posible. 
         .row.pe-lg-3.mb-4.pnt.pb-3(data-aos="zoom-in")
           .col-auto.pe-2.mt-1
             img(src="@/assets/curso/temas/tema1/check.svg")
           .col.px-0
-            p.mb-0 <b> Manipulador: </b>Intentará reafirmar su autoridad o superioridad manipulando al grupo de ser posible, o a ciertos integrantes, ya sea vanagloriándose de sí mismo o desacreditando a los demás.
+            p.mb-0 <b> Manipulador: </b>Intentará reafirmar su autoridad o superioridad, manipulando al grupo de ser posible, o a ciertos integrantes, ya sea vanagloriándose de sí mismo o desacreditando a los demás.
         .row.pe-lg-3.mb-4.pnt.pb-3(data-aos="zoom-in")
           .col-auto.pe-2.mt-1
             img(src="@/assets/curso/temas/tema1/check.svg")
@@ -370,7 +370,7 @@
           
         h2.text-center La acción cooperativa
 
-        p Implica que todos los integrantes tienen una conexión intelectual y emocional con los objetivos y las actividades del grupo. Se destaca entonces, el desarrollo y la evolución de todos los miembros del grupo, y el no desarrollo de un solo miembro seleccionado del mismo. El supuesto básico es que cuando el grupo ayuda a todos a desarrollarse, se logra la evolución máxima de cada uno de sus miembros, creándose así una sociedad interdependiente.
+        p Implica que todos los integrantes tienen una conexión intelectual y emocional con los objetivos y las actividades del grupo. Se destaca, entonces, el desarrollo y la evolución de todos los miembros del grupo, y el no desarrollo de un solo miembro seleccionado del mismo. El supuesto básico es que cuando el grupo ayuda a todos a desarrollarse, se logra la evolución máxima de cada uno de sus miembros, creándose así una sociedad interdependiente.
 
       .col-md.tarjeta.color-acento-contenido.tar-mov
         .row.justify-content-center.mb-4
@@ -467,7 +467,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-28.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 El líder del grupo, (en este caso nos referimos al guía o coordinador de este) es por decirlo de alguna manera, el “guardián” del logro o los objetivos a alcanzar por el grupo. Trabajo contrario sería el de aquel coordinador que muestre conductas de no directividad, que llevan al grupo a experimentar un clima de inseguridad y a desarrollar una serie de conductas de dependencia que perjudican el proceso y la eficiencia del grupo.
+        p.mb-0 El líder del grupo, (en este caso nos referimos al guía o coordinador de este) es, por decirlo de alguna manera, el “guardián” del logro o los objetivos a alcanzar por el grupo. Trabajo contrario sería el de aquel coordinador que muestre conductas de no directividad, que llevan al grupo a experimentar un clima de inseguridad y a desarrollar una serie de conductas de dependencia que perjudican el proceso y la eficiencia del grupo.
     p.mb-5 En el liderazgo, el éxito de un equipo no solo depende de las habilidades técnicas o el conocimiento de su líder, sino de una serie de comportamientos y actitudes que le permiten dirigir de manera efectiva. Un líder eficaz es alguien que se conoce a sí mismo, sabe entender a los demás y es capaz de adaptarse según el contexto. Para mantener el rumbo y cumplir con los objetivos propuestos, debe ser consciente de su rol en el grupo y de las condiciones que afectan su desarrollo. Esta capacidad de adaptación y percepción es fundamental para guiar al equipo con claridad, garantizando que cada paso esté alineado con el propósito y la meta final. A continuación, exploramos cinco elementos clave que componen el comportamiento de un líder y su impacto en el éxito grupal: autoconocimiento, observación de los otros, ajuste del rol, enfoque en el objetivo y dominio de las condiciones del entorno. 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
