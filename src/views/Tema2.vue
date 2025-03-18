@@ -125,7 +125,7 @@
           .col-auto.pe-2
             img(src="@/assets/curso/temas/tema2/img-3.svg", alt="Icono")
           .col.px-0
-            h4.mb-0.tit-2 Importancia de la comunicación
+            h4.mb-0.tit-2 La importancia de la comunicación
 
 
     p.mb-4 La comunicación es esencial para transmitir información de manera clara y efectiva, formando conocimientos, proyectando una imagen profesional y difundiendo mensajes clave. Además, permite persuadir al público, ofreciendo un espacio de entretenimiento y conexión. A continuación, se presentan los aspectos principales que la comunicación cumple en diversas interacciones, asegurando su impacto en cada contexto.
@@ -342,7 +342,7 @@
             .row.justify-content-center.mb-3
               .col-5
                 img(src='@/assets/curso/temas/tema2/img-24.svg' alt='AvatarTop')
-            p.text-center Tarjeta 7	Ser positivo(a) implica reconocer e informar a los demás que, al igual que nosotros, también buscan beneficiar y ayudar a los demás en sus acciones.	
+            p.text-center Ser positivo(a) implica reconocer e informar a los demás que, al igual que nosotros, también buscan beneficiar y ayudar a los demás en sus acciones.	
           .tarjeta.color-acento-botones.p-4.fnd-3-1
             .row.justify-content-center.mb-3
               .col-5

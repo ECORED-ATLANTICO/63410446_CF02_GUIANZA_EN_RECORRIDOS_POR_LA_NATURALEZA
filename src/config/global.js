@@ -229,7 +229,8 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Líder del ecosistema de recursos educativos digitales (RED)',
+          cargo:
+            'Responsable del Ecosistema de Recursos Educativos Digitales (RED) ',
           centro: 'Dirección General',
         },
         {
@@ -245,18 +246,18 @@ export default {
         {
           nombre: 'Julio Hernán Beltrán Peñuela',
           cargo: 'Experto temático',
-          centro: 'N/A',
+          centro: 'Centro de Comercio y Servicios- Regional Caldas',
         },
         {
           nombre: 'Mónica Patricia Osorio Martínez',
           cargo: 'Asesor Pedagógico',
-          centro: 'N/A',
+          centro: 'Centro Agroindustrial - Regional Quindío.',
         },
         {
-          nombre: 'Gilberto Herrera Delgans',
+          nombre: 'Jairo Luis Valencia Ebratt',
           cargo: 'Evaluador Instruccional',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
       ],
     },
@@ -294,13 +295,13 @@ export default {
           centro: 'Centro de Comercio y Servicios Regional Atlántico',
         },
         {
-          nombre: 'Jonathan Adie Villafañe',
-          cargo: 'Validador y vinculador de recursos digitales',
+          nombre: 'Jairo Luis Valencia Ebratt',
+          cargo: 'Validador y vinculador de recursos digitales ',
           centro: 'Centro de Comercio y Servicios Regional Atlántico',
         },
         {
-          nombre: 'Jairo Luis Valencia Ebratt',
-          cargo: 'Validador y vinculador de recursos digitales ',
+          nombre: 'Jonathan Adie Villafañe',
+          cargo: 'Validador y vinculador de recursos digitales',
           centro: 'Centro de Comercio y Servicios Regional Atlántico',
         },
       ],
